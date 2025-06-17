@@ -1,6 +1,6 @@
 # FiveM Cash Register Robbery Script
 
-![Robbery Demo](https://i.imgur.com/example.jpg)
+![Robbery Demo]([https://i.imgur.com/example.jpg](https://www.youtube.com/watch?v=hCUFaY3nf_4))
 
 A realistic cash register robbery system with fingerprint investigation mechanics for FiveM RP servers.
 
